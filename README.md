@@ -36,7 +36,7 @@ Data was collected from publicly available sources:
 ├── ski-resort-dashboard.twbx          # Final Tableau packaged workbook
 ├── dashboard-screenshot.png           # Dashboard preview
 ├── Utah Ski Resorts Executive Summary.pdf   # One-page findings summary
-├── Template_Data Viz Narrative.Part II.pdf  # Project narrative and process log
+├── Data Narrative.pdf                 # Project narrative and process log
 └── Data/
     ├── Ski Data.xlsx                  # National ski area data (NSAA)
     ├── Ski Pass Prices.xlsx           # Lift ticket prices per resort
@@ -45,4 +45,4 @@ Data was collected from publicly available sources:
 
 ## How to View
 
-Open `3400FinalProject.twbx` in [Tableau Desktop](https://www.tableau.com/products/desktop) (free trial available) or upload it to [Tableau Public](https://public.tableau.com/) to interact with the dashboard in a browser.
+Open `ski-resort-dashboard.twbx` in [Tableau Desktop](https://www.tableau.com/products/desktop) (free trial available) or upload it to [Tableau Public](https://public.tableau.com/) to interact with the dashboard in a browser.
