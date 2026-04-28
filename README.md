@@ -33,7 +33,7 @@ Data was collected from publicly available sources:
 ## Repository Contents
 
 ```
-├── 3400FinalProject.twbx              # Final Tableau packaged workbook
+├── ski-resort-dashboard.twbx          # Final Tableau packaged workbook
 ├── dashboard-screenshot.png           # Dashboard preview
 ├── Utah Ski Resorts Executive Summary.pdf   # One-page findings summary
 ├── Template_Data Viz Narrative.Part II.pdf  # Project narrative and process log
